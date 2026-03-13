@@ -5,26 +5,10 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Network+Security+%26+Threat+Analysis+%F0%9F%9B%A1%EF%B8%8F;Python+Developer+%7C+Automation+Scripting+%F0%9F%90%8D;Intrusion+Detection+%26+Ethical+Hacking+%F0%9F%94%90;LPU+CSE+Student+%7C+CGPA+7.9+%F0%9F%8E%93;Always+learning%2C+always+improving+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Pawanchandraupreti&style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/Pawanchandraupreti?tab=followers">
-  <img src="https://img.shields.io/github/followers/Pawanchandraupreti?style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=FOLLOWERS" />
-</a>
 </div>
 
 👨‍💻 About Me
-pythonclass Pawan:
-    name       = "Pawan Chandra Upreti"
-    location   = "Ludhiana, Punjab, India"
-    education  = "B.Tech CSE @ Lovely Professional University (CGPA: 7.9)"
-    focus      = ["Cybersecurity", "Network Security", "Threat Analysis"]
-    languages  = ["Python", "C++", "Java", "C"]
-    tools      = ["Wireshark", "Nmap", "Kali Linux", "Metasploit"]
-    frameworks = ["NIST CSF", "ISO/IEC 27001", "CIS Controls"]
-    currently  = "Building cybersecurity projects & grinding LeetCode 💪"
-    leetcode   = "160+ DSA problems solved"
-    motto      = "Protect, Detect, Respond. 🛡️"
+Hi there! 👋 I'm Pawan, a Computer Science student at Lovely Professional University with a passion for cybersecurity and software development. I love building practical solutions — from security tools to automation scripts — and I'm always curious about how systems work and how to make them more secure. I'm constantly learning, growing, and working on projects that challenge me. Whether you're looking to collaborate, share ideas, or just have a tech conversation — feel free to reach out! Let's build something great together. 🛡️🚀
 
 🛡️ Tech Stack
 💬 Languages
