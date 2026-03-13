@@ -1,133 +1,116 @@
 <div align="center">
-
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pawan&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=60&descSize=20&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Pawan%20Chandra%20Upreti&fontSize=50&fontColor=00ff41&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Software%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+full-stack+apps+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Always+learning%2C+always+improving+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Network+Security+%26+Threat+Analysis+%F0%9F%9B%A1%EF%B8%8F;Python+Developer+%7C+Automation+Scripting+%F0%9F%90%8D;Intrusion+Detection+%26+Ethical+Hacking+%F0%9F%94%90;LPU+CSE+Student+%7C+CGPA+7.9+%F0%9F%8E%93;Always+learning%2C+always+improving+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
-
 <br/>
-
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Pawanchandraupreti&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Pawanchandraupreti&style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://github.com/Pawanchandraupreti?tab=followers">
-  <img src="https://img.shields.io/github/followers/Pawanchandraupreti?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/Pawanchandraupreti?style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=FOLLOWERS" />
 </a>
-
 </div>
 
----
+👨‍💻 About Me
+pythonclass Pawan:
+    name       = "Pawan Chandra Upreti"
+    location   = "Ludhiana, Punjab, India"
+    education  = "B.Tech CSE @ Lovely Professional University (CGPA: 7.9)"
+    focus      = ["Cybersecurity", "Network Security", "Threat Analysis"]
+    languages  = ["Python", "C++", "Java", "C"]
+    tools      = ["Wireshark", "Nmap", "Kali Linux", "Metasploit"]
+    frameworks = ["NIST CSF", "ISO/IEC 27001", "CIS Controls"]
+    currently  = "Building cybersecurity projects & grinding LeetCode 💪"
+    leetcode   = "160+ DSA problems solved"
+    motto      = "Protect, Detect, Respond. 🛡️"
 
-## 👨‍💻 About Me
-
-```javascript
-const pawan = {
-  name: "Pawan Chandra Upreti",
-  role: "Full-Stack Developer & AI/ML Learner",
-  languages: ["Python", "JavaScript", "C/C++", "Java", "SQL"],
-  stack: ["React", "Node.js", "Express", "Firebase", "MongoDB"],
-  currentlyWorking: [
-    "Real-time systems",
-    "AI productivity tools",
-    "Web platforms"
-  ],
-  interests: ["AI", "Automation", "Problem-solving tools"],
-  motto: "Always learning, always improving 💡"
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
+🛡️ Tech Stack
+💬 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-### 🌐 Frontend
+🔐 Cybersecurity Tools
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white"/>
 </p>
-
-### ⚙️ Backend & Database
+📋 Frameworks & Standards
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NIST_CSF-003087?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC_27001-CC0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CIS_Controls-00A1E0?style=for-the-badge&logoColor=white"/>
 </p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🔧 Tools
+🔧 Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+🚀 Featured Projects
+🔍 Network Intrusion Detection System
 
-## 📊 GitHub Stats
+Real-time IDS capable of capturing live network packets using rule-based and ML-based detection to identify suspicious traffic patterns and anomalies.
 
+Tech: Python Scikit-Learn Python Logging Framework
+
+🔓 Brute Force Login Tool
+
+Cybersecurity tool to evaluate authentication robustness on demo platforms. Simulated controlled brute-force attacks — observed 72% failed, 18% successful, 10% blocked attempts.
+
+Tech: Python Requests Library JSON HTTP Protocols Automation Scripting
+
+🏅 Achievements & Certifications
+
+🥇 1st Rank — Analytical Skills Leaderboard, 4th Semester (Dec 2025)
+💻 160+ DSA Problems solved on LeetCode
+🐍 150+ Python Problems completed on Code Tantra
+📜 Cyber Security — Cipher Schools (Jul 2025)
+📜 Computational Theory — Infosys (Aug 2025)
+📜 Python towards ML/AI — CSE Pathsala (Mar 2024)
+
+
+📊 GitHub Stats
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pawanchandraupreti&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawanchandraupreti&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawanchandraupreti&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pawanchandraupreti&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00cc33&text_color=ccffcc&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawanchandraupreti&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00cc33&currStreakLabel=00ff41" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawanchandraupreti&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ccffcc&langs_count=6" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pawanchandraupreti&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pawanchandraupreti&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
+📈 Contribution Graph
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pawanchandraupreti&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pawanchandraupreti&bg_color=0d0d0d&color=00ff41&line=00cc33&point=ffffff&area=true&hide_border=true" />
 </div>
 
----
-
 <div align="center">
-
-## 🤝 Let's Connect
-
+🤝 Let's Connect
+<a href="mailto:upretipawanchandra@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/pawan-chandra-upreti">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/Pawanchandraupreti">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/><br/>
-
-*"The best way to predict the future is to build it."* 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
+"Security is not a product, but a process." 🛡️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" />
 </div>
 <!---
 Pawanchandraupreti/Pawanchandraupreti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
